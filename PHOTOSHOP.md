@@ -1,0 +1,1 @@
+zoom : cmd + ctrl + +
